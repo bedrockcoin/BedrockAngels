@@ -5,19 +5,33 @@
 <div align="center">
 
 # 🌌 BEDROCKCOIN ANGELS  
-### *The Silent Guardians*
+### *The Silent Guardians of the Chain*
+
+<br />
 
 <img src="./BedrockCoin.gif" alt="BedrockCoin Angels" width="400" />
 
+<br /><br />
+
 ---
 
-### ✨ Supporters
+## ✨ Supporters
 
-|  |  |  |
-|:-:|:-:|:-:|
-| <img src="./Angels-BedrockCoin1.png" width="150" alt="Angel 1" /> | <img src="./Angels-BedrockCoin2.png" width="150" alt="Angel 2" /> | <img src="./Angels-BedrockCoin3.png" width="150" alt="Angel 3" /> |
-| <img src="./Angels-BedrockCoin4.png" width="150" alt="Angel 4" /> | <img src="./Angels-BedrockCoin5.png" width="150" alt="Angel 5" /> | <img src="./Angels-BedrockCoin6.png" width="150" alt="Angel 6" /> |
+<table border="0" cellpadding="10" cellspacing="10" style="border-collapse: collapse;">
+  <tr>
+    <td align="center"><img src="./Angels-BedrockCoin1.png" width="150" alt="Angel 1" /></td>
+    <td align="center"><img src="./Angels-BedrockCoin2.png" width="150" alt="Angel 2" /></td>
+    <td align="center"><img src="./Angels-BedrockCoin3.png" width="150" alt="Angel 3" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./Angels-BedrockCoin4.png" width="150" alt="Angel 4" /></td>
+    <td align="center"><img src="./Angels-BedrockCoin5.png" width="150" alt="Angel 5" /></td>
+    <td align="center"><img src="./Angels-BedrockCoin6.png" width="150" alt="Angel 6" /></td>
+  </tr>
+</table>
 
-> *Gratitude needs no caption.*
+<br />
+
+*Gratitude needs no caption.*
 
 </div>
