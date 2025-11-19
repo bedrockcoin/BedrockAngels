@@ -15,7 +15,7 @@
 
 |  |  |  |
 |:-:|:-:|:-:|
-| ![Angel 1](./Angels-BedrockCoin1.png) | ![Angel 2](./Angels-BedrockCoin2.png) | ![Angel 3](./Angels-BedrockCoin3.png) |
-| ![Angel 4](./Angels-BedrockCoin4.png) | ![Angel 5](./Angels-BedrockCoin5.png) | ![Angel 6](./Angels-BedrockCoin6.png) |
+| <img src="./Angels-BedrockCoin1.png" width="150" alt="Angel 1" /> | <img src="./Angels-BedrockCoin2.png" width="150" alt="Angel 2" /> | <img src="./Angels-BedrockCoin3.png" width="150" alt="Angel 3" /> |
+| <img src="./Angels-BedrockCoin4.png" width="150" alt="Angel 4" /> | <img src="./Angels-BedrockCoin5.png" width="150" alt="Angel 5" /> | <img src="./Angels-BedrockCoin6.png" width="150" alt="Angel 6" /> |
 
 </div>
